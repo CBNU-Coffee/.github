@@ -12,7 +12,7 @@
 | 문서연 | backend | [hong@coffee.com](mailto:hong@coffee.com) |
 | 김은솔 | frontend  | -                                         |
 | 김성령 | backend  | -                                         |
-| 최희원 | database  | -                                         |
+| 최희원 | database  | [todka05@gmail.com](mailto:todka05@gmail.com) |
 
 
 ## 🛠️ 기술 스택
