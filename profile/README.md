@@ -10,7 +10,7 @@
 | 이름  | 역할 | 이메일                                       |
 | --- | -- | ----------------------------------------- |
 | 문서연 | backend | [hong@coffee.com](mailto:hong@coffee.com) |
-| 김은솔 | frontend  | -                                         |
+| 김은솔 | frontend  | kimes1923@gmail.com                                         |
 | 김성령 | backend  | -                                         |
 | 최희원 | database  | [todka05@gmail.com](mailto:todka05@gmail.com) |
 
