@@ -9,7 +9,7 @@
 ## 👥 팀 구성
 | 이름  | 역할 | 이메일                                       |
 | --- | -- | ----------------------------------------- |
-| 문서연 | backend | [hong@coffee.com](mailto:hong@coffee.com) |
+| 문서연 | backend | moonseoyeon05@gmail.com |
 | 김은솔 | frontend  | kimes1923@gmail.com                                         |
 | 김성령 | backend  | dpqms0759@naver.com                                        |
 | 최희원 | database  | [todka05@gmail.com](mailto:todka05@gmail.com) |
